@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Vũ Đinh Quý
+* Student Name: Vu Dinh Quy 
 * Student ID: BI12-378
 
